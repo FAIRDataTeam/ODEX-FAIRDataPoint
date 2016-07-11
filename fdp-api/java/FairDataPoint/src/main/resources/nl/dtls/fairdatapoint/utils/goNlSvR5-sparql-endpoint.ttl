@@ -1,0 +1,16 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix goNlSvR5: <http://www.dtls.nl/fdp/comparativeGenomics/goNlSvR5/> .
+
+goNlSvR5:sparqlEndpoint dct:title "GoNL variants SPARQL endpoint"@en ;
+rdfs:label "GoNL variants SPARQL endpoint"@en ;
+	a dcat:Distribution ;
+        dct:identifier "sparqlEndpoint" ;
+        dct:hasVersion "1.0" ;
+        dct:license <http://rdflicense.appspot.com/rdflicense/cc-by-nc-nd3.0>;
+	dcat:accessURL <http://agraph.biosemantics.org/repositories/goNlSvR5> ;                        
+        dct:issued "2016-07-11T15:23:21+00:00"^^xsd:dateTime ;
+        dct:modified "2016-07-11T15:23:21+00:00"^^xsd:dateTime .
