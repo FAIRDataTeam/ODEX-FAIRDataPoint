@@ -1,5 +1,7 @@
-<<<<<<< HEAD
-###FAIRDataPoint (FDP) Metadata Service
+[!IMPORTANT]
+This was the first path-finder prototype of the FAIR Data Point. It doesn't conform with the [FDP Specifications](https://specs.fairdatapoint.org) and has been archived as the [FDP Reference Implementation](https://github.com/FAIRDataTeam/FAIRDataPoint) progressed with a different architecture.
+
+# FAIRDataPoint (FDP) Metadata Service
 
 **Example dataset**: [EU-SOL BreeDB database](http://www.eu-sol.wur.nl) (tomato passport data)
 
